@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F9FFB9"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewDepartment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/department"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+        <TextView
+            android:id="@+id/textViewFieldOfStudy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fieldOfStudy"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+        <TextView
+            android:id="@+id/textViewType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/typeOfStudies" />
+
+        <TextView
+            android:id="@+id/textViewIsFavourite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/isFavourite" />
+
+        <TextView
+            android:id="@+id/textViewDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/description" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

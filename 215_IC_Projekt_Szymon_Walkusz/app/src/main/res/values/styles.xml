@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomButtonStyle" parent="Widget.AppCompat.Button">
+<!--        <item name="android:background">#2196F3</item> &lt;!&ndash; kolor tła &ndash;&gt;-->
+        <item name="android:textColorLink">#2196F3</item>
+        <item name="android:textColor">#FFFFFF</item> <!-- kolor tekstu -->
+        <item name="android:textSize">13sp</item> <!-- rozmiar tekstu -->
+        <item name="android:fontFamily">sans-serif-medium</item> <!-- rodzaj czcionki -->
+<!--        <item name="android:layout_margin">1dp</item> &lt;!&ndash; margines &ndash;&gt;-->
+        <item name="android:padding">1dp</item> <!-- wewnętrzne wcięcie -->
+    </style>
+</resources>

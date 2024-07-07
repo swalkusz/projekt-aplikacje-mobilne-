@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">215_IC_Projekt_Szymon_Walkusz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_us">O nas</string>
+    <string name="news">Aktualności</string>
+    <string name="recruitment">Rekrutacja</string>
+    <string name="contact">Kontakt</string>
+
+    <string name="id">ID</string>
+    <string name="department">Wydział</string>
+    <string name="fieldOfStudy">Kierunek</string>
+    <string name="typeOfStudies">Rodzaj</string>
+    <string name="description">Opis</string>
+    <string name="isFavourite">Czy ulubiony</string>
+
+    <string name="add_field_of_study">Dodaj kierunek</string>
+    <string name="logout">wyloguj</string>
+    <string name="department_name">nazwa wydziału</string>
+    <string name="studies_description">opis kierunku</string>
+    <string name="name_field_of_study">nazwa kierunku</string>
+    <string name="civil_or_military">Cywilne/Wojskowe</string>
+    <string name="delete_record">Usuń rekord</string>
+    <string name="edit_record">Edytuj Rekord</string>
+
+
+    <string name="about_us_description1">Akademia Marynarki Wojennej im. Bohaterów Westerplatte kształci kandydatów na żołnierzy zawodowych oraz studentów cywilnych z kraju i zagranicy. 100 lat tradycji, historii i wychowania na wartościach patriotycznych z nowoczesną bazą dydaktyczną i zapleczem wykwalifikowanej kadry akademickiej daje możliwości kształcenia najlepiej przygotowanych do służby oficerów MW.
+\nAkademia Marynarki Wojennej jest kontynuatorką utworzonej w 1922 r. w Toruniu Oficerskiej Szkoły Marynarki Wojennej. Akademia realizuje misję o doniosłym znaczeniu dla państwa i narodu, wnosząc kluczowy wkład w obronność, bezpieczeństwo, w szczególności bezpieczeństwo morskie państwa, wychowując podchorążych, studentów i doktorantów, kształcąc ich zgodnie z wartościami wyrażonymi w hasłach: „Morze, Ojczyzna, Obowiązek” oraz „Amor Patriae Suprema Lex”.
+\nW 1981 r. Wydział Nawigacji i Uzbrojenia Okrętowego (WNiUO) uzyskał uprawnienia do nadawania stopnia naukowego doktora nauk technicznych w dyscyplinie geodezja i kartografia, a także w specjalności nawigacja morska. Ponadto od 1987 r. Wydział Mechaniczno-Elektryczny (WME) może nadawać stopień doktora nauk technicznych w specjalności budowa i eksploatacja maszyn. W 65. rocznicę utworzenia OSMW, 1 października 1987 r., WSMW przemianowano na Akademię Marynarki Wojennej (AMW). W ten sposób szkoła stała się akademią, której przywileje miała już od 1955 r. Obecnie AMW oprócz kandydatów na żołnierzy zawodowych (podchorążych) kształci również oficerów i studentów cywilnych na czterech wydziałach:
+\nWydziale Nawigacji i Uzbrojenia Okrętowego (WNiUO),
+\nWydziale Mechaniczno-Elektrycznym (WME),
+\nWydziale Dowodzenia i Operacji Morskich (WDiOM),
+\nWydziale Nauk Humanistycznych i Społecznych (WNHiS).</string>
+
+    <string name="about_us_description2">Obecnie w uczelni zatrudnionych jest 16 profesorów, 43 doktorów habilitowanych i 81 doktorów. Główne święto Akademii przypada na dzień 1 października. Szczególnym wydarzeniem w dziejach PMW i AMW był rejs nawigacyjno-szkoleniowy dookoła świata na ORP „Iskra” pod dowództwem kmdr. por. Czesława Dyrcza. Połączono go z udziałem w Sail Indonesia ‘95 (18 kwietnia 1995 r. – 10 lutego 1996 r.). Podczas rejsu podchorążowie zapoznali się z warunkami hydrometeorologicznymi Oceanu Atlantyckiego, Oceanu Indyjskiego i Oceanu Spokojnego, odwiedzili 19 portów świata oraz opłynęli przylądek Horn. Długość przebytej trasy wyniosła prawie 37 000 mil morskich.</string>
+    <string name="about_us_description3">Studenci cywilni mają do wyboru czternaście kierunków: nawigację, hydrografię morską, informatykę, mechanikę i budowę maszyn, automatykę i robotykę, mechatronikę, bezpieczeństwo narodowe, bezpieczeństwo wewnętrzne, bezpieczeństwo w transporcie, spedycji i logistyce, systemy informacyjne w bezpieczeństwie, stosunki międzynarodowe, wojsko w systemie służb publicznych, zarządzanie kapitałem ludzkim oraz pedagogikę.
+\nPonadto oferta dydaktyczna uczelni obejmuje kilkadziesiąt studiów podyplomowych (z reguły dwusemestralnych), w których tematyce i organizacji w pełni uwzględniono aktualne zapotrzebowanie oraz warunki rynkowe. Prowadzone są wojskowe studia podyplomowe, takie jak: taktyka marynarki wojennej (WDiOM), morska sztuka operacyjna (WDiOM), oraz cywilne studia podyplomowe, w tym m.in.: zarządzanie kryzysowe (WDiOM), zarządzanie logistyką (WDiOM), nawigacja satelitarna (WNiUO), hydrografia morska (WNiUO), ochrona danych osobowych i informacji niejawnych w stosunkach międzynarodowych (WNHiS), przygotowanie pedagogiczne (WNHiS), edukacja dla bezpieczeństwa (WNHiS), dyplomacja (WNHiS), bezpieczeństwo imprez masowych (WNHiS), działalność organizacji pozarządowych w UE (WNHiS) czy gerontologia (WNHiS).
+\nWydział Dowodzenia i Operacji Morskich (WDiOM) ma uprawnienia do nadawania stopnia naukowego doktora i doktora habilitowanego w zakresie nauk o bezpieczeństwie, a także w ramach swoich uprawnień prowadzi czteroletnie studia doktoranckie. Ponadto WME nadaje stopień naukowy doktora w zakresie nauk technicznych budowa i eksploatacja maszyn, a WNiUO – nauk technicznych geodezja i kartografia.
+\nWreszcie Centrum Doskonalenia Kursowego w strukturze WDiOM (kursy zamawiane MON) i pozawydziałowe jednostki, takie jak Ośrodek Szkoleniowy AMW (kursy zgodnie z konwencją STCW/IMO) oraz Studium Języków Obcych (kursy językowe), zapewniają kursy od jednodniowych aż do semestralnych, np. radarowe, ARPA, hydrograficzne klasy A i B, systemu nawigacji satelitarnej GPS, systemu bezpieczeństwa morskiego GMDSS, ochrony przeciwpożarowej, indywidualnych technik ratunkowych, medyczne i językowe.
+\nUczelnia konsekwentnie kultywuje swoje bogate tradycje wojskowe, naukowe i patriotyczne, którym przyświecają wartości zawarte w inskrypcji „AMOR PATRIAE SUPREMA LEX" górującej nad głównym placem oraz wyrażone w preambule statutu „MORZE, OJCZYZNA, OBOWIĄZEK”.</string>
+
+    <string name="news1">ORP Wodnik wyszedł z Gdyni 19.06.2024 r. i ruszył w kierunku pierwszego portu - Ceuta w Hiszpanii.   23.06.2024 r. na Morzu Północnym, na zbiórce całego stanu osobowego został odczytany rys historyczny, a następnie złożona wiązanka w miejscu symbolicznego zatonięcia…
+    \nWięcej informacji na https://amw.gdynia.pl/index.php/o-nas/aktualnosci#wyszukiwarka-wydarzen-2</string>
+
+    <string name="news2">30 czerwca 2024 roku, w ostatnią niedzielę czerwca, która kończy obchody Święta Morza, obchodzimy Święto Marynarki Wojennej. Zgodnie z tradycją i ceremoniałem rozpoczęło się od podniesienia wielkiej gali banderowej o godzinie 08:00 na wszystkich okrętach w portach wojennych MW. To…
+    \nWięcej informacji na https://amw.gdynia.pl/index.php/o-nas/aktualnosci#wyszukiwarka-wydarzen-2</string>
+
+    <string name="contact1">Akademia Marynarki Wojennej</string>
+    <string name="contact2">im. Bohaterów Westerplatte
+\n81-127 Gdynia
+\nul. Śmidowicza 69</string>
+    <string name="contact3">Więcej szczegółów na: https://amw.gdynia.pl/index.php/o-nas/kontakt1</string>
+    <string name="back">powrót</string>
+    <string name="logger">Zaloguj</string>
+    <string name="login">Login</string>
+    <string name="password">Hasło</string>
+    <string name="amw">AMW</string>
+
+</resources>
